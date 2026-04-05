@@ -1,0 +1,27 @@
+{
+  "total_rows": 89104,
+  "unique_players": 245,
+  "unique_matches": 796,
+  "events": {
+    "Position": 51347,
+    "BotPosition": 21712,
+    "Loot": 12885,
+    "BotKill": 2415,
+    "BotKilled": 700,
+    "KilledByStorm": 39,
+    "Kill": 3,
+    "Killed": 3
+  },
+  "maps": {
+    "AmbroseValley": 61013,
+    "Lockdown": 21238,
+    "GrandRift": 6853
+  },
+  "days": {
+    "February_10": 33687,
+    "February_11": 21235,
+    "February_12": 18429,
+    "February_13": 11106,
+    "February_14": 4647
+  }
+}
